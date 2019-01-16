@@ -18,7 +18,7 @@
 - Frans Josef Gall (1758 - 1828) and Johann Gasper Spurzheim (1776-1832), the founders of Phrenology, opposed Cartesian Dualism:
     - was a widely accepted theory of how the mind worked
     - was respected by scientists and educated lay people
-    - had it's own training programs
+    - had it's own training programs that required medical degrees before enrollment
     - had application in the care of the diseased and the deviant
     -played a significant economic role
     - had its own journal
@@ -27,5 +27,18 @@
     - had a positive effect on some social institutions: insane asylums, prinons, and schools
     
 
-## Phrenology
-27 mapped regions that are mapped to 
+## Phrenology's contribution to the development of modern neuroscience:
+ 
+
+
+ ## The virtues of Scientific Hypotheses
+ - Testability - being based on observation in the right way
+ - Internal Consistency - does not contradict itself
+ - Conservatism - external consistency, that is, consistency with previously well-justified beliefs
+ - Generality - explanatory power
+    - Sometimes a trad-off between conservatism and generality is a good deal, in for example a "scientific revolution"
+- Precision - numerical and definitional, meaning that precision in expected outcome and what counts as a successful test
+- Simplicity(?)
+    - is simplicity then relative to educational background and intelligence?
+    - Some very simple characterizations of simplicity are too simple to work:
+        
